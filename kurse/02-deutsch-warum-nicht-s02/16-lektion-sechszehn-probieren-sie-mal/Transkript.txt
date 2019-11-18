@@ -1,0 +1,69 @@
+# ü, ö, ß
+# The following scenes take place at the Hotel Europa.
+# Scene 1: Her Meier hands in his key
+
+Andreas: 		Guten Morgen, Herr Meier Wie geht's?
+Meier:			Danke. Gut.
+
+# (Herr Meier places his key on the counter.)
+
+Meier:			Hier, mein Schlüssel!
+Andreas:		Danke, Und einen schönen Tag noch.
+Meier: 			Auf, Wiedersehen.
+
+# Scene 2: Andreas gives a woman back her passport.
+
+Andreas:		Guten Morgen
+Frau:			Guten Morgen
+Andreas:		Hier bitte - Ihr Paß!
+Frau:			Ach ja, danke. Auf Wiedersehen
+Andreas:		Auf Wiedersehen
+
+# Scene 3: Andreas gives Dr. Thürmann can't read it
+# because he can't find his glasses. Then he realises he is wearing them on 
+# his head.
+
+Andreas:		Guten Morgen, Herr Dr. Thürmann. Wie geht es Ihnen?
+Thürmann:		Morgen. Danke, es geht
+Andreas:		Hier ist ein Brief für Sie
+Thürmann:		So - ein Brief Meine Brille - meine Brille ist weg! Woher 
+				kommt denn der Brief?
+Andreas:		Aus Berlin. Entschuldigen Sie bitte, Her Dr. Thürmann, da ist ja
+				Ihre Brille!
+Thürmann:		Na, so was ... ich bin doch alt.	
+
+
+# Andreas is looking for Ex. He can hear her voice. She is with Hanna. Andreas
+# and Hanna have not met before. At the same time Andreas has to explain to 
+# Frau Berger what he is doing in the room with Hanna.
+
+Frau Berger:	Komisch.
+Ex:				Was ist komisch?
+Frau Berger:	Ist da jemand?
+Ex:				Ja. Wir!
+Andreas:		Pst - sei doch still!
+Frau Berger:	Was machen Sie denn hier?
+Ex:				Wir studieren.
+Hanna:			Wie bitte?
+Andreas:		Ja, Nein, also wir ...(he stutters) - ich bin nur neugierig.
+Frau Berger:	Interessant! Sagen Sie mal: Sie sind doch allein. Sagen Sie 
+				immer, wir' und meinen, ich?
+Andreas:		Nein, natürlich nicht.
+
+# Andreas introduces himself to Hanna. He says he is the porter and also a
+# student. Hanna introduces herself as the chambermaid. Frau Berger looks on
+# amused.
+
+Hanna:			Sie sind neu hier, oder? Ich glaube, Sie sind der Portier.
+Andreas:		Stimmt!
+Hanna:			Und warum sagen Sie, wir studieren?
+Andreas:		Ich bin Student.
+Hanna:			Was denn: Student oder Portier?
+Andreas:		Student und Portier.
+Hanna:			Ach so. Na ja -also, ich bin Hanna. Das Zimmermädchen.
+Andreas:		Und ich bin Andreas.
+Frau Berger:	Also - and die Arbeit!
+Hanna:			Okay. Tschüs!
+Ex:				Ciao!
+
+Inflected: change their form according to the person in which they are expressed.
