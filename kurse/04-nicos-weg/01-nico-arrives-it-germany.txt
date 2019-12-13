@@ -1,0 +1,17 @@
+Frau Schneider: Guten Morgen, Herr Müller, wie geth es Ihnen?
+Herr Muller:    Guten Morgen, Frau Schneider. Danke, gut! Und Ihnen?
+Unknown: 	Guten Tag, Frau Kamp
+Frau Kamp:      Guten Tag! Wie geth es Ihnen?
+Unknown:        Sehr gut, danke. Und Ihnen?
+Opa:       Hey, Lena! Na, wie geht's
+Unknown3: 	Hallo, Opa!
+Tom:		Hallo, Sarah. Wie geht's dir?
+Sarah:		Hi, Tom! Super, danke! und dir?
+
+Emma:	Oh schön
+Nico:	Hm?
+Emma:	Die Tasche ist schön!
+Nico:	Entschuldigung? Schön?
+Emma:	Ja, die Tasche!
+Sarah:	Emma, komm jetzt! Entschuldigung!
+Nico:	Adalbert-Stifter-Strasse...
